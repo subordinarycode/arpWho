@@ -9,3 +9,7 @@ arpWho is used to run an arp scan on the network and return details of the all t
 * IP address 
 * MAC Address
 * Vendor name
+
+
+# Disclaimer 
+ArpWho was designed to be used for ethical hacking and educational purposes only 
