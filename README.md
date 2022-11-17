@@ -1,4 +1,4 @@
-# arpWho
+# ArpWho
 arp network scanner
 
 # Discription
