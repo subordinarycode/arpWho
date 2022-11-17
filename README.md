@@ -1,8 +1,8 @@
 # ArpWho
-arp network scanner
+An ARP network scanner
 
 # Discription
-arpWho is used to run an arp scan on the network and return details of the all the online hosts
+ArpWho is used to run an arp scan on the network and return details of the all the online hosts
 
 # Returned Details
 * Hostname 
@@ -12,4 +12,4 @@ arpWho is used to run an arp scan on the network and return details of the all t
 
 
 # Disclaimer 
-ArpWho was designed to be used for ethical hacking and educational purposes only 
+This script was designed to be used for ethical hacking and educational purposes only 
